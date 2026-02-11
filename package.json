@@ -16,7 +16,7 @@
     "solc": "0.6.9",
     "solidity-coverage": "^0.8.14",
     "truffle": "^5.11.5",
-    "web3": "^1.10.0"
+    "web3": "^4.16.0"
   },
   "scripts": {
     "test": "mocha --exit --recursive test",
